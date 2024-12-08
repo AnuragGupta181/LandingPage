@@ -50,4 +50,4 @@ This repository contains the code for a **Landing Page** introducing **Anurag Gu
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnuragGupta181/landing-page.git
-2. Landing Page : 
+2. Landing Page : https://anuraggupta181.github.io/LandingPage/
